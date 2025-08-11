@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <img width="400" src="https://streak-stats.demolab.com?user=GALA-Lin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 
 📊 **代码能量值报表** 📊
+
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=GALA-Lin&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 📈 **代码作息时间表** 📈
